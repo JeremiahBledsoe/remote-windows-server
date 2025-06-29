@@ -1,4 +1,4 @@
-# 🖥Remote Windows Server Setup
+# Remote Windows Server Setup
 
 An educational project where I set up a remote-access Windows server. I configured secure user access, enabled Remote Desktop Protocol (RDP), and tested basic administration tasks.
 
@@ -8,7 +8,7 @@ An educational project where I set up a remote-access Windows server. I configur
 - Networking / Firewall settings
 - User account management
 
-## 🛠Key Tasks
+## Key Tasks
 - Installed Windows Server on a local machine
 - Enabled and tested Remote Desktop access
 - Created and managed user accounts
